@@ -3,4 +3,5 @@ ChatGLM-Finetuning/
 __pycache__/
 *.jsonl
 *.json
+!data_batch_195.json
 treeholeapi_old.py
